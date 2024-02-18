@@ -18,14 +18,6 @@ The project is structured as follows:
 - **Code Implementation**: Each feature is implemented individually by one partner, based on the test specs provided by the other partner.
 - **Integration**: The implemented features are integrated into the original project.
 
-## Timing Breakdown
-
-- **Integration**: 20 minutes
-- **Design and Feature Selection**: 10 minutes
-- **Test Specs Writing**: 30 minutes
-- **Code Implementation**: 50 minutes
-- **Integration of Features**: 10 minutes
-
 ## Requirements
 
 - Two sets of detailed Mocha/Chai test specs describing the features
@@ -42,4 +34,4 @@ Some future feature ideas that are considered to be added include:
 
 ## Personal Journey
 
-This project serves as a reflection of my journey in learning and applying OOP principles, TDD practices, and collaborative development. It highlights my ability to work with partners, communicate effectively, and deliver high-quality code.
+This project serves as a reflection of my journey in learning and applying OOP principles, problem solving, commitment, and TDD practices.
